@@ -27,7 +27,7 @@ I thrive on crafting elegant UIs, developing robust APIs, and integrating cuttin
 - **Frontend:** React.js, Next.js, React Native, Flutter, Tailwind CSS
 - **Backend:** Node.js, Express.js, Django, Django Rest Framework, Flask, FastAPI
 - **Mobile:** Flutter, React Native
-- **Cloud & DevOps:** Google Cloud Platform (GCP), Docker
+- **Cloud & DevOps:** Google Cloud Platform (GCP),AWS, Docker
 - **AI & ML:** Agentic AI, Multi-Agent Systems, Crew AI, LangChain
 
 <h3 align="left">Languages and Tools:</h3>
